@@ -5,7 +5,7 @@
 
 :SETVAR ShardMapManagerDatabaseNameSuffix _Xdb.Collection.ShardMapManager
 :SETVAR CustomerShard0DatabaseNameSuffix _Xdb.Collection.Shard0 --when azure is used names may be different
-:SETVAR CustomerShard1DatabaseNameSuffix _Xdb.Collection.Shard0 --when azure is used names may be different
+:SETVAR CustomerShard1DatabaseNameSuffix _Xdb.Collection.Shard1 --when azure is used names may be different
 :SETVAR Shard0DatabaseNameSuffix _Xdb.Collection.Shard0 
 :SETVAR Shard1DatabaseNameSuffix _Xdb.Collection.Shard1 
 
